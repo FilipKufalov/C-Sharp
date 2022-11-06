@@ -2,9 +2,7 @@
 */**/bin/
 */**/obj/
 */**/.vs
-**/**/*.csproj
 **/**/.csproj.user
-**/**/*.sln
 
 # Allow
 !**/*.cs
